@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Transportation\bin\Debug\Transportation.exe.config
+C:\Users\Admin\source\repos\Transportation\bin\Debug\Transportation.exe
+C:\Users\Admin\source\repos\Transportation\bin\Debug\Transportation.pdb
+C:\Users\Admin\source\repos\Transportation\obj\Debug\Transportation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Transportation\obj\Debug\Transportation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Transportation\obj\Debug\Transportation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Transportation\obj\Debug\Transportation.exe
+C:\Users\Admin\source\repos\Transportation\obj\Debug\Transportation.pdb
